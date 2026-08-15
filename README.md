@@ -1,27 +1,23 @@
 # 🌦️ Weather Report
 
-A simple and responsive weather application built using React and OpenWeather API.
+A simple responsive weather app built with React and OpenWeather API.
 
 ## Features
-
 - Search weather by city
-- Display temperature and weather condition
-- Display humidity, wind speed and feels-like temperature
+- Temperature, humidity & wind details
 - Dynamic weather icons
-- Loading and error handling
+- Loading & error handling
 - Responsive design
 
 ## Technologies
-
 - React
 - JavaScript
 - CSS
 - Axios
 - OpenWeather API
 
-## Getting Started
-
-Install dependencies:
+## Run the Project
 
 ```bash
-npm install   
+npm install
+npm start
